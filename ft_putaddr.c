@@ -15,7 +15,7 @@
 void	ft_putaddr(void *ptr, int *counter)
 {
 	unsigned long	addr;
-	char			*hexa;
+	char		*hexa;
 
 	hexa = "0123456789abcdef";
 	addr = (unsigned long)ptr;
