@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#includ "ft_printf.h"
 
 void	ft_putchar(char c, int *counter)
 {
