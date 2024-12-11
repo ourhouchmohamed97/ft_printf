@@ -6,7 +6,7 @@
 /*   By: mourhouc <mourhouc@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/21 12:46:54 by mourhouc          #+#    #+#             */
-/*   Updated: 2024/11/23 17:10:31 by mourhouc         ###   ########.fr       */
+/*   Updated: 2024/11/26 10:24:21 by mourhouc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 void	ft_putnbr(int n, int *counter)
 {
-	int	digit;
+	char	digit;
 
 	if (n == -2147483648)
 	{

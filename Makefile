@@ -6,7 +6,6 @@ RM = rm -rf
 SRC =	ft_printf.c \
 		ft_putstr.c \
 		ft_putnbr.c \
-		ft_putsign.c \
 		ft_putchar.c \
 		ft_puthexa.c \
 		ft_putaddr.c \
@@ -18,6 +17,8 @@ all: $(NAME)
 
 %.o: %.c ft_printf.h
 	$(CC) $(CFLAGS) -c $< -o $@
+
+bonus: $(NAME)
 
 $(NAME): $(OBJ)
 	ar rcs $(NAME) $(OBJ)
