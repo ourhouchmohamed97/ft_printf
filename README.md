@@ -3,5 +3,6 @@
 
 <p align="center" dir="auto">A static library that contains ft_printf, a function that mimics the real printf</p>
 
-<p align="center" dir="auto"><img src="https://user-images.githubusercontent.com/81205527/157133425-69e61e0d-9051-4733-87cb-844319544a8b.png" /></p>
+<p align="center" dir="auto"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfm.png" /></p>
+
 <h3 align="center" dir="auto">110/125 ✅</h3>
